@@ -1,5 +1,7 @@
 🔒 Secure Data Encryption System
 A super dope web app built with Python and Streamlit to encrypt and decrypt secret messages securely. It’s like a digital vault for your data, with extra security features to keep hackers out. 🛡️
+🌐 Live Demo
+Try the app live at https://datalock-mehdinathani.streamlit.app/! No setup needed—just jump in and start encrypting! 🚀
 ✨ Features
 
 Encrypt & Store: Type a message and a passkey to encrypt it into a secret code.
